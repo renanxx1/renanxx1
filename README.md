@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @renanxx1
-- 👀 I’m interested in technologies.
-- 🌱 I’m currently learning data engineering.
+- 🌱 I’m a Data Engineer.
 - 📫 How to reach me renan980@gmail.com
 
